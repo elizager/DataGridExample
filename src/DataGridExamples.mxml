@@ -5,4 +5,7 @@
 	<fx:Declarations>
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
+	
+	<s:TextArea id="textArea" text="some teaadfkjadfajkdf" />
+	
 </s:Application>
