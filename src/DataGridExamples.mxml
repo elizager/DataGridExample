@@ -15,4 +15,6 @@
 	<s:Button id="myBtn2" label="Button" />
 	<s:Button id="myBtn3" label="Button" />
 	
+	<s:DropDownList id="dropDown" prompt="This is drop down" />
+	
 </s:Application>
