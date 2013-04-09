@@ -19,7 +19,9 @@
 	<s:Button id="myBtn2" label="Button" />
 	<s:Button id="myBtn3" label="Button" />
 	
-	<s:DropDownList id="dropDown" prompt="This is drop down" />
+	<s:DropDownList id="dropDown1" prompt="This is drop down" />
+	<s:DropDownList id="dropDown2" prompt="This is drop down" />
+	<s:DropDownList id="dropDown3" prompt="This is drop down" />
 	
 	
 	
