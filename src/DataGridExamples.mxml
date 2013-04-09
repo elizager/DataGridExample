@@ -11,4 +11,8 @@
 	<s:TextArea id="txt3" text="some teaadfkjadfajkdf" />
 	<s:TextArea id="txt4" text="some teaadfkjadfajkdf" />
 	
+	<s:Button id="myBtn1" label="Button" />
+	<s:Button id="myBtn2" label="Button" />
+	<s:Button id="myBtn3" label="Button" />
+	
 </s:Application>
