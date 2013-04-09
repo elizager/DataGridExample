@@ -6,6 +6,9 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	
-	<s:TextArea id="textArea" text="some teaadfkjadfajkdf" />
+	<s:TextArea id="txt1" text="some teaadfkjadfajkdf" />
+	<s:TextArea id="txt2" text="some teaadfkjadfajkdf" />
+	<s:TextArea id="txt3" text="some teaadfkjadfajkdf" />
+	<s:TextArea id="txt4" text="some teaadfkjadfajkdf" />
 	
 </s:Application>
