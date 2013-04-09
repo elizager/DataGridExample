@@ -6,7 +6,7 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	
-<<<<<<< HEAD
+
 	<s:BorderContainer>
 		<s:layout>
 			<s:VerticalLayout horizontalAlign="center"  />
@@ -20,9 +20,10 @@
 			<s:Button id="myBtn1" label="Button" />
 			<s:Button id="myBtn2" label="Button" />
 			<s:Button id="myBtn3" label="Button" />
+			<s:Button id="myBtn4" label="Button" />
 		
 		<s:DropDownList id="dropDown" prompt="This is drop down" />
-=======
+
 	<s:layout>
 		<s:VerticalLayout horizontalAlign="center" />
 	</s:layout>
