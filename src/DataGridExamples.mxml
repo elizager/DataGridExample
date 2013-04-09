@@ -6,15 +6,21 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	
-	<s:TextArea id="txt1" text="some teaadfkjadfajkdf" />
-	<s:TextArea id="txt2" text="some teaadfkjadfajkdf" />
-	<s:TextArea id="txt3" text="some teaadfkjadfajkdf" />
-	<s:TextArea id="txt4" text="some teaadfkjadfajkdf" />
+	<s:BorderContainer>
+		<s:layout>
+			<s:VerticalLayout horizontalAlign="center"  />
+		</s:layout>
 	
-	<s:Button id="myBtn1" label="Button" />
-	<s:Button id="myBtn2" label="Button" />
-	<s:Button id="myBtn3" label="Button" />
+			<s:TextArea id="txt1" text="some teaadfkjadfajkdf" />
+			<s:TextArea id="txt2" text="some teaadfkjadfajkdf" />
+			<s:TextArea id="txt3" text="some teaadfkjadfajkdf" />
+			<s:TextArea id="txt4" text="some teaadfkjadfajkdf" />
+			
+			<s:Button id="myBtn1" label="Button" />
+			<s:Button id="myBtn2" label="Button" />
+			<s:Button id="myBtn3" label="Button" />
+		
+		<s:DropDownList id="dropDown" prompt="This is drop down" />
 	
-	<s:DropDownList id="dropDown" prompt="This is drop down" />
-	
+	</s:BorderContainer>
 </s:Application>
