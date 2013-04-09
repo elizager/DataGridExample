@@ -6,6 +6,10 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	
+	<s:layout>
+		<s:VerticalLayout horizontalAlign="center" />
+	</s:layout>
+	
 	<s:TextArea id="txt1" text="some teaadfkjadfajkdf" />
 	<s:TextArea id="txt2" text="some teaadfkjadfajkdf" />
 	<s:TextArea id="txt3" text="some teaadfkjadfajkdf" />
@@ -16,5 +20,7 @@
 	<s:Button id="myBtn3" label="Button" />
 	
 	<s:DropDownList id="dropDown" prompt="This is drop down" />
+	
+	
 	
 </s:Application>
